@@ -1,18 +1,16 @@
-<h1>Hi, I'm Geethika! <br/><a href="https://github.com/joshmadakor1">Cyber Security Analyst</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Undergraduate</a>, <a href="https://www.youtube.com/c/joshmadakor">Blogger</a></h1>
+<h1>Hi, I'm Geethika! <br/><a href="https://facebook.com/geethika.zavitar">Cyber Security Analyst</a>, <a href="https://www.linkedin.com/in/geethikamanu">Cybersecurity Undergraduate</a>, <a href="https://cybersecmore.blogspot.com/">Blogger</a></h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Malicious URL Detection Using Machine Learning Algorithms ](https://github.com/Zavitar97/URL-Detection-)
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/Zavitar97/Python.PDPA)
+- <b>PowerShell</b>
+  - [JWipe (Disk Wiping Utility)](https://github.com/Zavitar97/Powershell.Jwipe)
+  - [Active Directory Bulk User Creation](https://github.com/Zavitar97/Powershell.ADBU)
+  - [FIM (File Integrity Monitor)](https://github.com/Zavitar97/Powershell.FIM)
+- <b>C# (.NET Desktop Applications)</b>
+  - [Keylogger with Email Capability](https://github.com/Zavitar97/C-.KeyLogger)
 
 <h2>📺 Popular Blog Posts</h2>
 
@@ -22,14 +20,16 @@
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 Connect with Me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="GeethikaManu | Blogger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/blogger.svg" />][blogger]
+[<img align="left" alt="GeethikaManu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="GeethikaManu | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
+[<img align="left" alt="GeethikaManu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
+[<img align="left" alt="GeethikaManu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[twitter]: https://twitter.com/Geethika_97
+[blogger]: https://cybersecmore.blogspot.com/
+[instagram]: https://www.instagram.com/gtk_manu/
+[facebook]: https://facebook.com/geethika.zavitar
+[linkedin]: https://www.linkedin.com/in/geethikamanu
