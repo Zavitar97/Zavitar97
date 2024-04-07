@@ -14,11 +14,12 @@
 
 <h2>✍🏻Popular Blog Posts:📝</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [State-Sponsored Cyber Warfare](https://cybersecmore.blogspot.com/2024/03/state-sponsored-cyber-warfare.html)
+- [Decoding the Cycle of Ransomware](https://cybersecmore.blogspot.com/2024/03/decoding-cycle-of-ransomware.html)
+- [Understanding Social Engineering](https://cybersecmore.blogspot.com/2024/03/understanding-social-engineering.html)
+- [The Importance of Strong Passwords ](https://cybersecmore.blogspot.com/2024/03/protecting-your-personal-data-online.html)
+- [Getting Started with Linux](https://cybersecmore.blogspot.com/2024/03/getting-started-with-linux-step-by-step.html)
+- [ChatGPT: Everything You Need To Know](https://cybersecmore.blogspot.com/2024/04/chatgpt-everything-you-need-to-know.html)
 
 <h2>🧑🏻‍💻Find Me At:💬</h2>
 
