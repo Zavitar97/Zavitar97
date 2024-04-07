@@ -12,7 +12,7 @@
 - <b>C# (.NET Desktop Applications)</b>
   - [Keylogger with Email Capability](https://github.com/Zavitar97/C-.KeyLogger)
 
-<h2>✍🏻Popular Blog Posts📝</h2>
+<h2>✍🏻Popular Blog Posts:📝</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
