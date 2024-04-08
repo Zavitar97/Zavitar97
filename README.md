@@ -3,11 +3,11 @@
 <h2>👨🏻‍💻Cyber Security Projects:💻</h2>
 
 - <b>Python</b>
-  - [Malicious URL Detection Using Machine Learning Algorithms ](https://github.com/Zavitar97/URL-Detection-)
+  - [Malicious URL Detection Using Machine Learning Algorithms](https://github.com/Zavitar97/URL-Detection-)
   - [Secure Chat Application](https://github.com/Zavitar97/Secure.Chat)
   - [Advanced Spyware Application](https://github.com/Zavitar97/Spyware)
-  - [A Complete Crypto Currency System ](https://github.com/Zavitar97/CryptoCurrency)
-  - [Secure File Share Application ](https://github.com/Zavitar97/Secure.FileShare)
+  - [A Complete Crypto Currency System](https://github.com/Zavitar97/CryptoCurrency)
+  - [Secure File Share Application](https://github.com/Zavitar97/Secure.FileShare)
   - [Package Delivery Application](https://github.com/Zavitar97/Python.PDPA)
 - <b>PowerShell</b>
   - [JWipe (Disk Wiping Utility)](https://github.com/Zavitar97/Powershell.Jwipe)
@@ -21,7 +21,14 @@
   - [Prank Startup Malware](https://github.com/Zavitar97/Startup.Virus)
   - [Simple DoS Attack Utility](https://github.com/Zavitar97/DDoS)
 - <b>C# (.NET Desktop Applications)</b>
-  - [Keylogger with Email Capability](https://github.com/Zavitar97/C-.KeyLogger)
+  - [Keylogger With Email Capability](https://github.com/Zavitar97/C-.KeyLogger)
+
+<h2>💎Cyber Security Treasure Collection:💰</h2>
+  - [Free Cyber Security & Hacking eBook Collection](https://github.com/Zavitar97/CS.EBook)
+  - [Cybersecurity Blue Team Tool Collection](https://github.com/Zavitar97/Cyber.Blue)
+  - [GPT Agent Collection For Cybersecurity](https://github.com/Zavitar97/GPT.List)
+  - [Web Attack Payload Collection](https://github.com/Zavitar97/Git.Payload)
+  - [Machine Learning Tool Collection For Cyber Security](https://github.com/Zavitar97/ML.CS)
 
 <h2>✍🏻Popular Blog Posts:📝</h2>
 
