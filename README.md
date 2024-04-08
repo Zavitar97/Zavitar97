@@ -9,6 +9,10 @@
   - [A Complete Crypto Currency System](https://github.com/Zavitar97/CryptoCurrency)
   - [Secure File Share Application](https://github.com/Zavitar97/Secure.FileShare)
   - [Package Delivery Application](https://github.com/Zavitar97/Python.PDPA)
+- <b>Java</b>
+  - [PDF File Encryption Tool](https://github.com/Zavitar97/PDF.Encrypt)
+  - [AES Encryption System](https://github.com/Zavitar97/AES.Encryption)
+  - [Vulnerable Web Application](https://github.com/Zavitar97/Vulnerable.WebApp)
 - <b>PowerShell</b>
   - [JWipe (Disk Wiping Utility)](https://github.com/Zavitar97/Powershell.Jwipe)
   - [Active Directory Bulk User Creation](https://github.com/Zavitar97/Powershell.ADBU)
@@ -20,6 +24,9 @@
 - <b>C</b>
   - [Prank Startup Malware](https://github.com/Zavitar97/Startup.Virus)
   - [Simple DoS Attack Utility](https://github.com/Zavitar97/DDoS)
+- <b>C++</b>
+  - [Remote Access Trojan](https://github.com/Zavitar97/Trojan)
+  - [Password Strength Detector](https://github.com/Zavitar97/PWD.Strength)
 - <b>C# (.NET Desktop Applications)</b>
   - [Keylogger With Email Capability](https://github.com/Zavitar97/C-.KeyLogger)
 
