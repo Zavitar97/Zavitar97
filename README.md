@@ -1,4 +1,4 @@
-<h1>Hi, I'm Geethika! 😎<br/><a href="https://www.linkedin.com/in/geethikamanu">Cyber Security Analyst</a>, <a href="https://facebook.com/geethika.zavitar">Cybersecurity Undergraduate</a>, <a href="https://cybersecmore.blogspot.com/">Blogger</a></h1>
+<h1>Hi, I'm Geethika! 😎<br/><a href="https://www.linkedin.com/in/geethikamanu">Cyber Security Analyst</a>, <a href="https://facebook.com/geethika.zavitar">Cyber Security Undergraduate</a>, <a href="https://cybersecmore.blogspot.com/">Blogger</a></h1>
 
 <h2>👨🏻‍💻Cyber Security Projects:💻</h2>
 
