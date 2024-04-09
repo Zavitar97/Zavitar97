@@ -44,7 +44,7 @@
 - [State-Sponsored Cyber Warfare](https://cybersecmore.blogspot.com/2024/03/state-sponsored-cyber-warfare.html)
 - [Decoding the Cycle of Ransomware](https://cybersecmore.blogspot.com/2024/03/decoding-cycle-of-ransomware.html)
 - [Understanding Social Engineering](https://cybersecmore.blogspot.com/2024/03/understanding-social-engineering.html)
-- [The Importance of Strong Passwords ](https://cybersecmore.blogspot.com/2024/03/protecting-your-personal-data-online.html)
+- [The Importance of Strong Passwords](https://cybersecmore.blogspot.com/2024/03/protecting-your-personal-data-online.html)
 - [Getting Started with Linux](https://cybersecmore.blogspot.com/2024/03/getting-started-with-linux-step-by-step.html)
 - [ChatGPT: Everything You Need To Know](https://cybersecmore.blogspot.com/2024/04/chatgpt-everything-you-need-to-know.html)
 
