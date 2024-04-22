@@ -1,14 +1,14 @@
 <h1>Hi, I'm Geethika! 😎<br/><a href="https://www.linkedin.com/in/geethikamanu">Cyber Security Analyst</a>, <a href="https://facebook.com/geethika.zavitar">Cyber Security Undergraduate</a>, <a href="https://cybersecmore.blogspot.com/">Blogger</a></h1>
 
 ---
-## 🌐 Socials:
+## 🌐 Socials: 💬
 [![Blogger](https://img.shields.io/badge/Blogger-FF5722?logo=blogger&logoColor=white)](https://cybersecmore.blogspot.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/geethikamanu) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/geethika.zavitar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gtk_manu) [![Twitter](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Geethika_97) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/E6Gdzahb)
 [![](https://visitcount.itsvg.in/api?id=Zavitar97&icon=6&color=0)](https://visitcount.itsvg.in)
 
-# 💻 Tech Stack:
+## 💻 Tech Stack: 🧰
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=plastic&logo=splunk&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=plastic&logo=tor-project&logoColor=white)
 
-<h2>👨🏻‍💻Cyber Security Projects:💻</h2>
+<h2>👨🏻‍💻 Cyber Security Projects: 💻</h2>
 
 - <b>Python</b>
   - [Malicious URL Detection Using Machine Learning Algorithms](https://github.com/Zavitar97/URL-Detection-)
@@ -39,7 +39,7 @@
   - [Keylogger With Email Capability](https://github.com/Zavitar97/C-.KeyLogger)
 
 
-<h2>💎Cyber Security Treasure Collection:💰</h2>
+<h2>💎 Cyber Security Treasure Collection: 💰</h2>
 
   - [Free Cyber Security & Hacking eBook Collection](https://github.com/Zavitar97/CS.EBook)
   - [Cybersecurity Blue Team Tool Collection](https://github.com/Zavitar97/Cyber.Blue)
@@ -47,7 +47,7 @@
   - [Web Attack Payload Collection](https://github.com/Zavitar97/Git.Payload)
   - [Machine Learning Tool Collection For Cyber Security](https://github.com/Zavitar97/ML.CS)
 
-<h2>✍🏻Popular Blog Posts:📝</h2>
+<h2>✍🏻 Popular Blog Posts: 📝</h2>
 
 - [State-Sponsored Cyber Warfare](https://cybersecmore.blogspot.com/2024/03/state-sponsored-cyber-warfare.html)
 - [Decoding the Cycle of Ransomware](https://cybersecmore.blogspot.com/2024/03/decoding-cycle-of-ransomware.html)
@@ -56,14 +56,14 @@
 - [Getting Started with Linux](https://cybersecmore.blogspot.com/2024/03/getting-started-with-linux-step-by-step.html)
 - [ChatGPT: Everything You Need To Know](https://cybersecmore.blogspot.com/2024/04/chatgpt-everything-you-need-to-know.html)
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats: 📈
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Zavitar97&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zavitar97&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies: 🏅
 ![](https://github-profile-trophy.vercel.app/?username=Zavitar97&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+## ✍🏻 Random Dev Quote: 📃
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 <!---
 <h2>🧑🏻‍💻Find Me At:💬</h2>
