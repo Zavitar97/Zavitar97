@@ -65,7 +65,7 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
+<!---
 <h2>🧑🏻‍💻Find Me At:💬</h2>
 
 [<img align="left" alt="GeethikaManu | Blogger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/blogger.svg" />][blogger]
@@ -79,3 +79,4 @@
 [instagram]: https://www.instagram.com/gtk_manu/
 [facebook]: https://facebook.com/geethika.zavitar
 [linkedin]: https://www.linkedin.com/in/geethikamanu
+-->
