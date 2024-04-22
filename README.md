@@ -56,6 +56,7 @@
 - [ChatGPT: Everything You Need To Know](https://cybersecmore.blogspot.com/2024/04/chatgpt-everything-you-need-to-know.html)
   
 ## 📊 GitHub Stats: 📈
+![](https://github-readme-stats.vercel.app/api?username=Zavitar97&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Zavitar97&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zavitar97&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
